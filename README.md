@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="./banner.svg"/>
+  <img src="./banner.svg" />
 </p>
 
 <p align="center">
-  <img src="./logo.svg" width="120"/>
+  <img src="./logo.svg" width="120" />
 </p>
+
 
 
 # 🌌 **KKAxiomWeaver Whitepaper Research Center**
