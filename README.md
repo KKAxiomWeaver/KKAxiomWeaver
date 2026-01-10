@@ -6,6 +6,7 @@
   <img src="https://raw.githubusercontent.com/KKAxiomWeaver/KKAxiomWeaver/main/branding/axiom-weaver-logo.svg" width="120" />
 </p>
 
+
 # 🌌 **KKAxiomWeaver Whitepaper Research Center**
 ### *Civilization Engineering · Multi-Domain OS · Strategic Defense Architecture · Semantic Systems*
 
