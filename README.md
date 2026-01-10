@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/KKAxiomWeaver/main/branding/axiomweaver-banner.svg" />
+  <img src="./branding/axiomweaver-banner.svg" alt="KKAxiomWeaver Whitepaper Research Center Banner" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/KKAxiomWeaver/main/branding/axiom-weaver-logo.svg" width="120" />
+  <img src="./branding/axiom-weaver-logo.svg" alt="Axiom Weaver Logo" width="120" />
 </p>
 
 
