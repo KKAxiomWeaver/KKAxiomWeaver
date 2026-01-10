@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="./banner.svg" />
+  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/_meta/main/branding/kkaxiomweaver-banner.svg" />
 </p>
 
 <p align="center">
-  <img src="./logo.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/_meta/main/branding/axiom-weaver-logo.svg"
+       width="120" />
 </p>
 
 
