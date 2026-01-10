@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/_meta/main/branding/kkaxiomweaver-banner.svg" />
+  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/Civilization-OS-Library/main/branding/axiomweaver-banner.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/_meta/main/branding/axiom-weaver-logo.svg"
+  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/Civilization-OS-Library/main/branding/axiom-weaver-logo.svg"
        width="120" />
 </p>
 
