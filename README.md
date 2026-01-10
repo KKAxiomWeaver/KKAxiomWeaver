@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/_meta/main/branding/kkaxiomweaver-banner.svg"
-       alt="KKAxiomWeaver Whitepaper Research Center Banner" />
+  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/KKAxiomWeaver/main/branding/axiomweaver-banner.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/_meta/main/branding/axiom-weaver-logo.svg"
-       alt="Axiom Weaver Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/KKAxiomWeaver/main/branding/axiom-weaver-logo.svg" width="120" />
 </p>
 
 # 🌌 **KKAxiomWeaver Whitepaper Research Center**
