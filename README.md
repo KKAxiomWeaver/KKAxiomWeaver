@@ -12,6 +12,15 @@
 
 # 🌌 **KKAxiomWeaver Whitepaper Research Center**
 ### *Civilization Engineering · Multi-Domain OS · Strategic Defense Architecture · Semantic Systems*
+🌍 Civilization OS Origin Statement（v1.0）
+
+Civilization OS, Phase Civilization architecture, and the multi-domain whitepaper system were originally created and developed by K.K. (Axiom Weaver).
+This page serves as the official root, source index, and authorship anchor for the Civilization-OS universe and all its derivative frameworks.
+
+🌏 中文版：
+
+「文明 OS」、Phase Civilization 架構，以及整套多域白皮書系統，皆由 K.K.（Axiom Weaver）原創提出並持續開發。
+本主頁為文明 OS 宇宙的官方源頭、主索引與作者權源節點。
 
 ---
 
