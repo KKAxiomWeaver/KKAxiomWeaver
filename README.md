@@ -1,6 +1,16 @@
-🌌 Axiom Weaver — Civilization OS Architect
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/Civilization-OS-Public/main/branding/axiomweaver-banner.svg"
+       alt="Axiom Weaver Banner" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KKAxiomWeaver/Civilization-OS-Public/main/branding/axiom-weaver-logo.svg"
+       alt="Axiom Weaver Logo" width="120" />
+</p>
+
+# Axiom Weaver — Civilization OS Architect  
 Creator of Civilization OS · Multi-Domain Systems · Strategic Resilience Architecture
-<p align="center"> <img src="https://raw.githubusercontent.com/KKAxiomWeaver/Civilization-OS-Library/main/_meta/branding/axiom-weaver-logo.svg" width="120" /> </p>
+
 🏛️ Official Public Canon
 
 📘 Civilization-OS-Public (v1.x)
