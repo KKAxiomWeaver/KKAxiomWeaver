@@ -11,7 +11,6 @@
 # Axiom Weaver — Civilization OS Architect  
 Creator of Civilization OS · Multi-Domain Systems · Strategic Resilience Architecture
 
-🏛️ Official Public Canon
 
 📘 Civilization-OS-Public (v1.x)
 ➡️ https://github.com/KKAxiomWeaver/Civilization-OS-Public
