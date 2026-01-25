@@ -63,3 +63,6 @@ The whitepaper identity anchor (AW-Fingerprint)
 Version governance & universe integrity
 
 <p align="center"><i> “Civilizations evolve. Architectures endure.” </i></p>
+
+For collaboration or research inquiries:
+kkaw.recovery@gmail.com
